@@ -1,0 +1,91 @@
+/* Base mobile styles (smallest devices): Stack sections vertically, larger touch targets */
+
+@media (max-width: 768px) {
+  
+  /* Header */
+  .header {
+    flex-direction: column;
+    padding: 16px 20px;
+  }
+
+  .nav {
+    flex-direction: column;
+    gap: 12px;
+    margin-top: 12px;
+  }
+
+  /* Hero */
+  .hero {
+    flex-direction: column;
+    padding: 40px 20px;
+  }
+
+  .hero-image img {
+    width: 100%;
+    max-width: 280px;
+    margin-top: 24px;
+  }
+
+  /* Stats */
+  .stats-cards {
+    flex-direction: column;
+    gap: 18px;
+    align-items: center;
+  }
+
+  /* Why Choose */
+  .why-choose-content {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .why-choose-image img {
+    width: 100%;
+    max-width: 280px;
+  }
+
+  /* Industry Section */
+  .industry-section {
+    flex-direction: column;
+    padding: 40px 20px;
+  }
+
+  .industry-image img {
+    width: 100%;
+    max-width: 280px;
+    margin-top: 20px;
+  }
+
+  /* Portfolio Section */
+  .portfolio-section {
+    flex-direction: column;
+    padding: 40px 20px;
+  }
+
+  .portfolio-image img {
+    width: 100%;
+    max-width: 280px;
+    margin-bottom: 20px;
+  }
+
+  /* Testimonials */
+  .testimonials-grid {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+
+  /* Footer */
+  .subscribe-section,
+  .footer-info {
+    padding: 20px 15px;
+  }
+
+  .subscribe-form {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .subscribe-form input[type="email"] {
+    width: 100%;
+  }
+}

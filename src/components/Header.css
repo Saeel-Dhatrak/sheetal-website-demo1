@@ -1,0 +1,49 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #18132a;
+  padding: 20px 40px;
+  color: #fff;
+}
+
+.logo {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+.nav a:hover {
+  color: #ebd976; /* Yellow hover to match accent */
+}
+
+.cta-button {
+  background: #ebd976;
+  color: #18132a;
+  border: none;
+  padding: 10px 24px;
+  border-radius: 24px;
+  font-weight: bold;
+  font-size: 1rem;
+  margin-left: 20px;
+  cursor: pointer;
+  /*transition: background 0.2s;*/
+}
+
+.cta-button:hover {
+  background: #fffbe3;
+}

@@ -1,0 +1,80 @@
+.footer {
+  background: #18132a;
+  color: #fff;
+  padding: 48px 40px 24px 40px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.subscribe-section {
+  max-width: 480px;
+  margin: 0 auto 32px auto;
+}
+
+.subscribe-section h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.accent {
+  color: #ebd976;
+  font-weight: bold;
+}
+
+.subscribe-section p {
+  margin-bottom: 24px;
+  font-size: 1rem;
+}
+
+.subscribe-form {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
+
+.subscribe-form input[type="email"] {
+  padding: 12px 16px;
+  border-radius: 24px;
+  border: none;
+  width: 240px;
+  font-size: 1rem;
+}
+
+.subscribe-form button {
+  background: #ebd976;
+  color: #18132a;
+  padding: 12px 28px;
+  border: none;
+  font-weight: bold;
+  border-radius: 24px;
+  cursor: pointer;
+  /* transition: background 0.2s; */
+  font-size: 1rem;
+}
+
+.subscribe-form button:hover {
+  background: #fffbe3;
+}
+
+.footer-info {
+  border-top: 1px solid #2c2750;
+  padding-top: 18px;
+  font-size: 0.9rem;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  margin-bottom: 10px;
+}
+
+.social-links a {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.social-links a:hover {
+  color: #ebd976;
+}
