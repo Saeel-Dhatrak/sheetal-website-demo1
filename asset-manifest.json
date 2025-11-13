@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Saeel-Dhatrak/sheetal-website-demo1/static/css/main.c69a7002.css",
-    "main.js": "/Saeel-Dhatrak/sheetal-website-demo1/static/js/main.2ed17cc5.js",
-    "static/js/453.6dd20e23.chunk.js": "/Saeel-Dhatrak/sheetal-website-demo1/static/js/453.6dd20e23.chunk.js",
-    "static/media/Stats-Images.PNG": "/Saeel-Dhatrak/sheetal-website-demo1/static/media/Stats-Images.9283b66229580878f795.PNG",
-    "static/media/sheetal-website-image.jpg": "/Saeel-Dhatrak/sheetal-website-demo1/static/media/sheetal-website-image.b85188015f6c9a25eb27.jpg",
-    "static/media/PortfolioProjects.PNG": "/Saeel-Dhatrak/sheetal-website-demo1/static/media/PortfolioProjects.288e5f17f24ae4d4924c.PNG",
-    "static/media/sheetal-website-image2.jpg": "/Saeel-Dhatrak/sheetal-website-demo1/static/media/sheetal-website-image2.1343f828b37bef653fcf.jpg",
-    "index.html": "/Saeel-Dhatrak/sheetal-website-demo1/index.html",
-    "main.c69a7002.css.map": "/Saeel-Dhatrak/sheetal-website-demo1/static/css/main.c69a7002.css.map",
-    "main.2ed17cc5.js.map": "/Saeel-Dhatrak/sheetal-website-demo1/static/js/main.2ed17cc5.js.map",
-    "453.6dd20e23.chunk.js.map": "/Saeel-Dhatrak/sheetal-website-demo1/static/js/453.6dd20e23.chunk.js.map"
+    "main.css": "/sheetal-website-demo1/static/css/main.c69a7002.css",
+    "main.js": "/sheetal-website-demo1/static/js/main.013e0d6b.js",
+    "static/js/453.6dd20e23.chunk.js": "/sheetal-website-demo1/static/js/453.6dd20e23.chunk.js",
+    "static/media/Stats-Images.PNG": "/sheetal-website-demo1/static/media/Stats-Images.9283b66229580878f795.PNG",
+    "static/media/sheetal-website-image.jpg": "/sheetal-website-demo1/static/media/sheetal-website-image.b85188015f6c9a25eb27.jpg",
+    "static/media/PortfolioProjects.PNG": "/sheetal-website-demo1/static/media/PortfolioProjects.288e5f17f24ae4d4924c.PNG",
+    "static/media/sheetal-website-image2.jpg": "/sheetal-website-demo1/static/media/sheetal-website-image2.1343f828b37bef653fcf.jpg",
+    "index.html": "/sheetal-website-demo1/index.html",
+    "main.c69a7002.css.map": "/sheetal-website-demo1/static/css/main.c69a7002.css.map",
+    "main.013e0d6b.js.map": "/sheetal-website-demo1/static/js/main.013e0d6b.js.map",
+    "453.6dd20e23.chunk.js.map": "/sheetal-website-demo1/static/js/453.6dd20e23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c69a7002.css",
-    "static/js/main.2ed17cc5.js"
+    "static/js/main.013e0d6b.js"
   ]
 }
